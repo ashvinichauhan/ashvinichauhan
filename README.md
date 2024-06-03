@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **Python,Java, Web Development**
+- 💬 Ask me about **Python, Java, Web Development**
 
 - 📫 How to reach me **https://www.linkedin.com/in/ashvini-chauhan-a9b038216/**
 
